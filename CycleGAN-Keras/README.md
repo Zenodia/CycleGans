@@ -31,7 +31,7 @@ parameter 'image_folder' in CycleGAN init function.
 
 3. Train a model by:
 ```
-python model.py
+python model.py --inference N
 ```
 
 
